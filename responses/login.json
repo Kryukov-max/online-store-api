@@ -1,0 +1,10 @@
+{
+  "result": 1,
+  "user": {
+    "id_user": 923,
+    "user_login": "PapaSmith",
+    "user_name": "Vladislav",
+    "user_lastname": "Kuznetsov"
+  },
+  "authToken": "some_authorizaion_token"
+}
