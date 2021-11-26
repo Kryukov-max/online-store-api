@@ -3,12 +3,12 @@
 
 Пожалуйста, используйте это API на курсах по frontend-разработке на языке Javascript, а также при разработке мобильного приложения для интернет-магазина. С его помощью вы получите работающий интернет-магазин с тестовыми данными.
 
-Описание соглашений по работе API содержится в файле [API Description.xlsx](https://github.com/GeekBrainsTutorial/online-store-api/blob/master/API%20Description.xlsx) в корне репозитория. 
+Описание соглашений по работе API содержится в файле [API Description.xlsx](https://github.com/Kryukov-max/online-store-api/blob/master/API%20Description.xlsx) в корне репозитория. 
 
 # Правила использования статических JSON-файлов
 Для получения статического JSON-ответа можно обращаться по URL-адресу 
 
-https://raw.githubusercontent.com/GeekBrainsTutorial/online-store-api/master/responses/имяФайла.json
+https://raw.githubusercontent.com/Kryukov-max/online-store-api/master/responses/имяФайла.json
 
 Это вернет чистый JSON-ответ согласно прилагающейся документации.
 
